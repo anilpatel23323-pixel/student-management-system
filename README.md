@@ -2,7 +2,7 @@ Student Management System
 
 A simple Student Management System built using Python.
 
-📌 Features
+ Features
 
 - Add student details
 - Enter marks for different subjects
@@ -12,7 +12,7 @@ A simple Student Management System built using Python.
 - Show PASS / FAIL result
 - Display complete student result
 
-🛠️ Technologies Used
+ Technologies Used
 
 - Python 3
 - Dictionaries
@@ -20,7 +20,7 @@ A simple Student Management System built using Python.
 - Loops
 - Conditional Statements
 
-▶️ How to Run
+ How to Run
 
 1. Download or clone this repository.
 2. Open the project folder.
@@ -40,10 +40,10 @@ The program takes student information and marks as input and displays:
 - Grade
 - Result
 
-👨‍💻 Author
-
+ Author
 Anil Kumar
 
-⭐ Project
+ Project
 
-If you like this project, don't forget to Star ⭐ the repository.
+If you like this project, don't forget to Star 
+ the repository.
