@@ -28,7 +28,7 @@ A simple Student Management System built using Python.
 
 python student_management.py
 
-📊 Example
+Example
 
 The program takes student information and marks as input and displays:
 
